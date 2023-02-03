@@ -4,4 +4,4 @@
 
 <p> año de publicacion: {{ $book->published_at}}</p>
 
-<p> Resumen: {{ $book->sumary }}</p>
+<p> Resumen: {{ $book->summary }}</p>
